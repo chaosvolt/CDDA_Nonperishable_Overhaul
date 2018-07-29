@@ -1,4 +1,4 @@
-# CDDA_Nonperisable_Overhaul
+# CDDA_Nonperishable_Overhaul
 
 This mod has a very simple premise: a general overhaul of spoilage for food that is obstinately non-perishable. Main effect is reverting the spoilage times added to a broad swath of shelf-stable food. Reasons why include:
 
