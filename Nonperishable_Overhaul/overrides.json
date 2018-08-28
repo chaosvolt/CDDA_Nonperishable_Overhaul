@@ -589,5 +589,22 @@
     "name": "wasteland sausage",
     "description": "Lean sausage made from heavily salt-cured offal, with natural gut casing.  Waste not, want not.",
     "spoils_in": 0
+  },
+  {
+    "id": "garlic",
+    "copy-from": "garlic",
+    "type": "COMESTIBLE",
+    "name": "garlic bulb",
+    "description": "A pungent garlic bulb.  Popular as a seasoning for its strong flavor.  Can be disassembled to cloves.",
+    "spoils_in": 0
+  }
+  {
+    "id": "garlic_clove",
+    "copy-from": "garlic_clove",
+    "type": "COMESTIBLE",
+    "name": "garlic clove",
+    "name_plural": "garlic cloves",
+    "description": "Cloves of garlic.  Useful as a seasoning, or for planting.",
+    "spoils_in": 0
   }
 ]
