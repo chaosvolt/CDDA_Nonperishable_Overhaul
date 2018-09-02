@@ -597,7 +597,7 @@
     "name": "garlic bulb",
     "description": "A pungent garlic bulb.  Popular as a seasoning for its strong flavor.  Can be disassembled to cloves.",
     "spoils_in": 0
-  }
+  },
   {
     "id": "garlic_clove",
     "copy-from": "garlic_clove",
