@@ -329,14 +329,6 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "dry_mushroom_magic",
-    "copy-from": "dry_mushroom_magic",
-    "name": "dried hallucinogenic mushroom",
-    "description": "A hallucinogenic mushroom which has been dehydrated for storage.  Will still cause hallucinations if eaten.",
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
     "id": "spaghetti_raw",
     "copy-from": "spaghetti_raw",
     "name": "raw spaghetti",

@@ -461,15 +461,6 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "potato_irradiated",
-    "copy-from": "potato_irradiated",
-    "name": "irradiated potato",
-    "name_plural": "irradiated potatoes",
-    "description": "An irradiated potato will remain edible nearly forever.  Sterilized using radiation, so it's safe to eat.",
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
     "id": "maple_sap",
     "copy-from": "maple_sap",
     "name": "maple sap",
