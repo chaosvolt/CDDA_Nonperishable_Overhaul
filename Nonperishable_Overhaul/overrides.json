@@ -52,10 +52,38 @@
   },
   {
     "type": "COMESTIBLE",
+    "id": "mutant_tallow",
+    "name": "mutant tallow",
+    "copy-from": "mutant_tallow",
+    "spoils_in": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "mutant_human_tallow",
+    "name": "mutant humanoid tallow",
+    "copy-from": "mutant_human_tallow",
+    "spoils_in": 0
+  },
+  {
+    "type": "COMESTIBLE",
     "id": "lard",
     "name": "lard",
-    "copy-from": "tallow",
+    "copy-from": "lard",
     "description": "A smooth white block of dry-rendered animal fat.  It will remain edible for a very long time, and can be used as an ingredient in many foods and projects.",
+    "spoils_in": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "mutant_lard",
+    "name": "mutant lard",
+    "copy-from": "mutant_lard",
+    "spoils_in": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "mutant_human_lard",
+    "name": "mutant humanoid lard",
+    "copy-from": "mutant_human_lard",
     "spoils_in": 0
   },
   {
@@ -487,6 +515,14 @@
     "copy-from": "dry_veggy",
     "name": "dehydrated vegetable",
     "description": "Dehydrated vegetable flakes.  With proper storage, this dried food will remain edible for an incredibly long time.",
+    "spoils_in": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "dry_tofu",
+    "copy-from": "dry_tofu",
+    "name": "dehydrated tofu",
+    "name_plural": "dehydrated tofu",
     "spoils_in": 0
   },
   {
