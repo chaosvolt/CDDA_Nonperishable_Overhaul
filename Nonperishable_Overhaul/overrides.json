@@ -499,5 +499,12 @@
     "type": "COMESTIBLE",
     "name": { "str": "garlic clove" },
     "spoils_in": 0
+  },
+  {
+    "id": "lotus_tea",
+    "copy-from": "lotus_tea",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "lotus tea" },
+    "spoils_in": 0
   }
 ]
