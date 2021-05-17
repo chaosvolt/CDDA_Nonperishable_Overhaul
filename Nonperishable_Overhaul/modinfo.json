@@ -6,6 +6,7 @@
     "authors": [ "Chaosvolt" ],
     "maintainers": [ "Chaosvolt" ],
     "description": "Reduces excessive use of spoilage for non-perishables.",
+    "version": "DDA and BN version, update 5/17/2021",
     "category": "rebalance",
     "dependencies": [ "dda" ]
   }
