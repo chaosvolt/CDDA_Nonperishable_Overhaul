@@ -1,4 +1,4 @@
-# CDDA_Nonperishable_Overhaul
+# Nonperishable Overhaul, a mod for Catacylsm: Dark Days Ahead and Cataclysm: Bright Nights
 
 This mod has a very simple premise: a general overhaul of spoilage for food that is obstinately non-perishable. Main effect is reverting the spoilage times added to a broad swath of shelf-stable food. Reasons why include:
 
@@ -17,3 +17,5 @@ There are a few notable cases where I went ahead and didn't mess with things:
 3. Pine nuts and shelled hickory nuts likewise will likewise slide, for consistency reasons.
 4. Sweet sausage can likely get away with this as it seems to be intended as a more perishable item.
 5. Most pickled goods I've left alone, as making them entails canning anyway.
+
+If you are using Dark Days Ahead, place the included Nonperishable_Overhaul folder in your data/mods folder. If you are using the Bright Nights fork, use the Nonperishable_Overhaul_BN folder instead. In either case it is recommended that, if updating the mod, to delete the older version of the folder rather than just dumping the new one onto the old one.

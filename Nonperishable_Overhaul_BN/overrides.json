@@ -340,16 +340,16 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "pistachio_unshelled",
-    "copy-from": "pistachio_unshelled",
-    "name": { "str_sp": "shelled pistachios" },
+    "id": "pistachio",
+    "copy-from": "pistachio",
+    "name": { "str_sp": "pistachios" },
     "spoils_in": 0
   },
   {
     "type": "COMESTIBLE",
-    "id": "almond_unshelled",
-    "copy-from": "almond_unshelled",
-    "name": { "str_sp": "shelled almonds" },
+    "id": "almond",
+    "copy-from": "almond",
+    "name": { "str_sp": "almonds" },
     "spoils_in": 0
   },
   {
@@ -361,16 +361,16 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "pecan_unshelled",
-    "copy-from": "pecan_unshelled",
-    "name": { "str_sp": "shelled pecans" },
+    "id": "pecan",
+    "copy-from": "pecan",
+    "name": { "str_sp": "pecans" },
     "spoils_in": 0
   },
   {
     "type": "COMESTIBLE",
-    "id": "peanut_unshelled",
-    "copy-from": "peanut_unshelled",
-    "name": { "str_sp": "shelled peanuts" },
+    "id": "peanut",
+    "copy-from": "peanut",
+    "name": { "str_sp": "peanuts" },
     "spoils_in": 0
   },
   {
@@ -382,30 +382,30 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "walnut_unshelled",
-    "copy-from": "walnut_unshelled",
-    "name": { "str_sp": "shelled walnuts" },
+    "id": "walnut",
+    "copy-from": "walnut",
+    "name": { "str_sp": "walnuts" },
     "spoils_in": 0
   },
   {
     "type": "COMESTIBLE",
-    "id": "chestnut_unshelled",
-    "copy-from": "chestnut_unshelled",
-    "name": { "str_sp": "shelled chestnuts" },
+    "id": "chestnut",
+    "copy-from": "chestnut",
+    "name": { "str_sp": "chestnuts" },
     "spoils_in": 0
   },
   {
     "type": "COMESTIBLE",
-    "id": "hazelnut_unshelled",
-    "copy-from": "hazelnut_unshelled",
-    "name": { "str_sp": "shelled hazelnuts" },
+    "id": "hazelnut",
+    "copy-from": "hazelnut",
+    "name": { "str_sp": "hazelnuts" },
     "spoils_in": 0
   },
   {
     "type": "COMESTIBLE",
-    "id": "hickory_nut_unshelled",
-    "copy-from": "hickory_nut_unshelled",
-    "name": { "str_sp": "shelled hickory nuts" },
+    "id": "hickory_nut",
+    "copy-from": "hickory_nut",
+    "name": { "str_sp": "hickory nuts" },
     "spoils_in": 0
   },
   {
