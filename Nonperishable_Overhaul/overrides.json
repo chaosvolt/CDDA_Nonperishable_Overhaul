@@ -583,5 +583,19 @@
     "type": "COMESTIBLE",
     "name": { "str_sp": "lotus tea" },
     "spoils_in": 0
+  },
+  {
+    "id": "leverpostej",
+    "copy-from": "leverpostej",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "leverpostej" },
+    "spoils_in": 0
+  },
+  {
+    "id": "ghee",
+    "copy-from": "ghee",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "ghee" },
+    "spoils_in": 0
   }
 ]
