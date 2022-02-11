@@ -702,13 +702,6 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "drink_sewerbrew",
-    "copy-from": "drink_sewerbrew",
-    "name": { "str_sp": "sewer brew" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
     "id": "tea_bark",
     "copy-from": "tea_bark",
     "name": { "str_sp": "bark tea" },
