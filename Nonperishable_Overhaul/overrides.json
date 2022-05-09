@@ -340,15 +340,15 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "pistachio_shelled",
-    "copy-from": "pistachio_shelled",
+    "id": "pistachio_unshelled",
+    "copy-from": "pistachio_unshelled",
     "name": { "str_sp": "shelled pistachios" },
     "spoils_in": 0
   },
   {
     "type": "COMESTIBLE",
-    "id": "almond_shelled",
-    "copy-from": "almond_shelled",
+    "id": "almond_unshelled",
+    "copy-from": "almond_unshelled",
     "name": { "str_sp": "shelled almonds" },
     "spoils_in": 0
   },
@@ -361,15 +361,15 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "pecan_shelled",
-    "copy-from": "pecan_shelled",
+    "id": "pecan_unshelled",
+    "copy-from": "pecan_unshelled",
     "name": { "str_sp": "shelled pecans" },
     "spoils_in": 0
   },
   {
     "type": "COMESTIBLE",
-    "id": "peanut_shelled",
-    "copy-from": "peanut_shelled",
+    "id": "peanut_unshelled",
+    "copy-from": "peanut_unshelled",
     "name": { "str_sp": "shelled peanuts" },
     "spoils_in": 0
   },
@@ -382,29 +382,29 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "walnut_shelled",
-    "copy-from": "walnut_shelled",
+    "id": "walnut_unshelled",
+    "copy-from": "walnut_unshelled",
     "name": { "str_sp": "shelled walnuts" },
     "spoils_in": 0
   },
   {
     "type": "COMESTIBLE",
-    "id": "chestnut_shelled",
-    "copy-from": "chestnut_shelled",
+    "id": "chestnut_unshelled",
+    "copy-from": "chestnut_unshelled",
     "name": { "str_sp": "shelled chestnuts" },
     "spoils_in": 0
   },
   {
     "type": "COMESTIBLE",
-    "id": "hazelnut_shelled",
-    "copy-from": "hazelnut_shelled",
+    "id": "hazelnut_unshelled",
+    "copy-from": "hazelnut_unshelled",
     "name": { "str_sp": "shelled hazelnuts" },
     "spoils_in": 0
   },
   {
     "type": "COMESTIBLE",
-    "id": "hickory_nut_shelled",
-    "copy-from": "hickory_nut_shelled",
+    "id": "hickory_nut_unshelled",
+    "copy-from": "hickory_nut_unshelled",
     "name": { "str_sp": "shelled hickory nuts" },
     "spoils_in": 0
   },
