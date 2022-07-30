@@ -722,13 +722,6 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "canola",
-    "copy-from": "canola",
-    "name": { "str_sp": "canola" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
     "id": "dogbane",
     "copy-from": "dogbane",
     "name": { "str_sp": "dogbane" },
