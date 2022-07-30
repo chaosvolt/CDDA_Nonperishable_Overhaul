@@ -477,14 +477,6 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "paper",
-    "copy-from": "paper",
-    "//": "Why in the name of Armok, god of blood, is this even a comestible in the first place?",
-    "name": { "str_sp": "paper" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
     "id": "drink_strawberry_surprise",
     "copy-from": "drink_strawberry_surprise",
     "name": { "str_sp": "strawberry surprise" },
