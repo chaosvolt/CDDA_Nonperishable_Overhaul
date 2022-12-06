@@ -597,5 +597,61 @@
     "type": "COMESTIBLE",
     "name": { "str_sp": "ghee" },
     "spoils_in": 0
+  },
+  {
+    "id": "dogfood_dry",
+    "copy-from": "dogfood_dry",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "dry dog food" },
+    "spoils_in": 0
+  },
+  {
+    "id": "catfood_dry",
+    "copy-from": "catfood_dry",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "dry cat food" },
+    "spoils_in": 0
+  },
+  {
+    "id": "demihuman_lard",
+    "copy-from": "demihuman_lard",
+    "type": "COMESTIBLE",
+    "name": { "str": "demihuman lard" },
+    "spoils_in": 0
+  },
+  {
+    "id": "demihuman_tallow",
+    "copy-from": "demihuman_tallow",
+    "type": "COMESTIBLE",
+    "name": { "str": "demihuman tallow" },
+    "spoils_in": 0
+  },
+  {
+    "id": "dry_lobster",
+    "copy-from": "dry_lobster",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "dehydrated lobster" },
+    "spoils_in": 0
+  },
+  {
+    "id": "dry_mollusk",
+    "copy-from": "dry_mollusk",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "dehydrated mollusk" },
+    "spoils_in": 0
+  },
+  {
+    "id": "flour_wheat_free",
+    "copy-from": "flour_wheat_free",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "wheat-free flour" },
+    "spoils_in": 0
+  },
+  {
+    "id": "pemmican_meat",
+    "copy-from": "pemmican_meat",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "pemmican (meat only)" },
+    "spoils_in": 0
   }
 ]
