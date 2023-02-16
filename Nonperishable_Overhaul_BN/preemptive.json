@@ -4,7 +4,6 @@
     "id": "lemonade",
     "copy-from": "lemonade",
     "name": { "str_sp": "lemonade" },
-    "description": "Lemon juice mixed with water and sugar to dull the sourness.  Delicious and refreshing.",
     "spoils_in": 0
   },
   {
@@ -19,7 +18,6 @@
     "id": "irish_coffee",
     "copy-from": "irish_coffee",
     "name": { "str_sp": "Irish coffee" },
-    "description": "Sweetened coffee and whiskey topped with milk.  Start your day the closeted alcoholic way!",
     "spoils_in": 0
   },
   {
@@ -27,7 +25,6 @@
     "id": "drink_wild_apple",
     "copy-from": "drink_wild_apple",
     "name": { "str_sp": "wild apple" },
-    "description": "Like apple cider, only with vodka.",
     "spoils_in": 0
   },
   {
@@ -35,7 +32,6 @@
     "id": "mead",
     "copy-from": "mead",
     "name": { "str_sp": "spiced mead" },
-    "description": "Well-aged honey wine, spiced with a hint of hops.  Goes down bittersweet.",
     "spoils_in": 0
   },
   {
@@ -43,7 +39,6 @@
     "id": "dandelion_wine",
     "copy-from": "dandelion_wine",
     "name": { "str_sp": "dandelion wine" },
-    "description": "A light and delicious wine made from dandelion flowers.  Slightly effervescent, it is smooth and crisp.",
     "spoils_in": 0
   },
   {
@@ -51,7 +46,6 @@
     "id": "pine_wine",
     "copy-from": "pine_wine",
     "name": { "str_sp": "pine wine" },
-    "description": "A potent wine flavored with pine resin.  Bold and pungent, its biting taste and strong aroma takes some getting used to.",
     "spoils_in": 0
   },
   {
@@ -59,7 +53,6 @@
     "id": "hb_beer",
     "copy-from": "hb_beer",
     "name": { "str_sp": "homebrew beer" },
-    "description": "Not the finest drink you've had, but hey, it's alcohol by the gallon.",
     "spoils_in": 0
   },
   {
@@ -67,7 +60,6 @@
     "id": "moonshine",
     "copy-from": "moonshine",
     "name": { "str_sp": "moonshine" },
-    "description": "Only the strongest, purest, good ol' fashioned hooch.  Guaranteed to make you forget about the whole cataclysm thing, or you get your vision back.",
     "spoils_in": 0
   },
   {
@@ -75,7 +67,6 @@
     "id": "stout",
     "copy-from": "stout",
     "name": { "str_sp": "stout" },
-    "description": "A tasty craft beer, as dark in color as the days ahead.",
     "spoils_in": 0
   },
   {
@@ -83,7 +74,6 @@
     "id": "belgian_ale",
     "copy-from": "belgian_ale",
     "name": { "str_sp": "Belgian ale" },
-    "description": "A flavorful and filling ale brewed by monks in Belgium.  Best served in a goblet.",
     "spoils_in": 0
   },
   {
@@ -91,7 +81,6 @@
     "id": "imperial_stout",
     "copy-from": "imperial_stout",
     "name": { "str_sp": "imperial stout" },
-    "description": "A very flavorful beer that has been aged in bourbon barrels.  It is as black as midnight on a moonless night and has the viscosity of oil.  While very tasty, it also has an alcohol content on the level with wine.",
     "spoils_in": 0
   },
   {
@@ -99,7 +88,6 @@
     "id": "tea",
     "copy-from": "tea",
     "name": { "str_sp": "tea" },
-    "description": "Tea, the beverage of gentlemen everywhere.",
     "spoils_in": 0
   },
   {
@@ -107,7 +95,6 @@
     "id": "coffee",
     "copy-from": "coffee",
     "name": { "str_sp": "coffee" },
-    "description": "Coffee.  The morning ritual of the pre-apocalyptic world.",
     "spoils_in": 0
   },
   {
@@ -115,7 +102,6 @@
     "id": "atomic_coffee",
     "copy-from": "atomic_coffee",
     "name": { "str_sp": "atomic coffee" },
-    "description": "This serving of coffee has been created using an atomic coffee pot's FULL NUCLEAR brewing cycle.  Every possible microgram of caffeine and flavor has been carefully extracted for your enjoyment, using the power of the atom.",
     "spoils_in": 0
   },
   {
@@ -123,7 +109,6 @@
     "id": "choc_drink",
     "copy-from": "choc_drink",
     "name": { "str_sp": "chocolate drink" },
-    "description": "A chocolate flavored beverage made of artificial flavoring and milk byproducts.  Shelf stable and vaguely appetizing even when lukewarm.",
     "spoils_in": 0
   },
   {
@@ -131,7 +116,6 @@
     "id": "blood",
     "copy-from": "blood",
     "name": { "str_sp": "blood" },
-    "description": "Blood, possibly that of a human.  Disgusting!",
     "spoils_in": 0
   },
   {
@@ -139,7 +123,13 @@
     "id": "dandelion_tea",
     "copy-from": "dandelion_tea",
     "name": { "str_sp": "dandelion tea" },
-    "description": "A healthy beverage made from dandelion roots steeped in boiling water.",
+    "spoils_in": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "dandelionburdock_tea",
+    "copy-from": "dandelionburdock_tea",
+    "name": { "str_sp": "dandelion and burdock tea" },
     "spoils_in": 0
   },
   {
@@ -147,7 +137,6 @@
     "id": "tallow_tainted",
     "copy-from": "tallow_tainted",
     "name": { "str_sp": "tainted tallow" },
-    "description": "A smooth grayish block of cleaned and rendered monster fat.  It will remain 'fresh' for a very long time, and can be used as an ingredient in many projects.  You could eat it, but it will poison you.",
     "spoils_in": 0
   },
   {
@@ -155,7 +144,6 @@
     "id": "slime_scrap",
     "copy-from": "slime_scrap",
     "name": { "str_sp": "blob glob" },
-    "description": "A little hunk of glop that fell off a blob monster.  It doesn't seem hostile, but it does wiggle occasionally.",
     "spoils_in": 0
   },
   {
@@ -163,7 +151,6 @@
     "id": "irradiated_apple",
     "copy-from": "irradiated_apple",
     "name": { "str_sp": "irradiated apple" },
-    "description": "Mmm, irradiated.  Will remain edible nearly forever.  Sterilized using radiation, so it's safe to eat.",
     "spoils_in": 0
   },
   {
@@ -171,7 +158,6 @@
     "id": "irradiated_banana",
     "copy-from": "irradiated_banana",
     "name": { "str_sp": "irradiated banana" },
-    "description": "An irradiated banana will remain edible nearly forever.  Sterilized using radiation, so it's safe to eat.",
     "spoils_in": 0
   },
   {
@@ -179,7 +165,6 @@
     "id": "irradiated_orange",
     "copy-from": "irradiated_orange",
     "name": { "str_sp": "irradiated orange" },
-    "description": "An irradiated orange will remain edible nearly forever.  Sterilized using radiation, so it's safe to eat.",
     "spoils_in": 0
   },
   {
@@ -187,7 +172,6 @@
     "id": "irradiated_lemon",
     "copy-from": "irradiated_lemon",
     "name": { "str_sp": "irradiated lemon" },
-    "description": "An irradiated lemon will remain edible nearly forever.  Sterilized using radiation, so it's safe to eat.",
     "spoils_in": 0
   },
   {
@@ -195,7 +179,6 @@
     "id": "kernels",
     "copy-from": "kernels",
     "name": { "str_sp": "popcorn kernels" },
-    "description": "Dried kernels from a particular type of corn.  Practically inedible raw, they can be cooked to make a tasty snack.",
     "spoils_in": 0
   },
   {
@@ -203,7 +186,6 @@
     "id": "irradiated_blueberries",
     "copy-from": "irradiated_blueberries",
     "name": { "str": "irradiated blueberry", "str_pl": "irradiated blueberries" },
-    "description": "An irradiated blueberry will remain edible nearly forever.  Sterilized using radiation, so it's safe to eat.",
     "spoils_in": 0
   },
   {
@@ -211,7 +193,6 @@
     "id": "irradiated_strawberries",
     "copy-from": "irradiated_strawberries",
     "name": { "str": "irradiated strawberry", "str_pl": "irradiated strawberries" },
-    "description": "An irradiated strawberry will remain edible nearly forever.  Sterilized using radiation, so it's safe to eat.",
     "spoils_in": 0
   },
   {
@@ -219,7 +200,6 @@
     "id": "wheat",
     "copy-from": "wheat",
     "name": { "str_sp": "wheat" },
-    "description": "Raw wheat, not very tasty.",
     "spoils_in": 0
   },
   {
@@ -227,7 +207,6 @@
     "id": "buckwheat",
     "copy-from": "buckwheat",
     "name": { "str_sp": "buckwheat" },
-    "description": "Seeds from a wild buckwheat plant.  Not particularly good to eat in their raw state, they are commonly cooked or ground into flour.",
     "spoils_in": 0
   },
   {
@@ -235,7 +214,6 @@
     "id": "hops",
     "copy-from": "hops",
     "name": { "str_sp": "hops flower" },
-    "description": "A cluster of small cone-like flowers, indispensable for brewing beer.",
     "spoils_in": 0
   },
   {
@@ -243,7 +221,6 @@
     "id": "barley",
     "copy-from": "barley",
     "name": { "str_sp": "barley" },
-    "description": "Grainy cereal used for malting.  A staple of brewing everywhere.  It can also be ground into flour.",
     "spoils_in": 0
   },
   {
@@ -251,7 +228,6 @@
     "id": "irradiated_lettuce",
     "copy-from": "irradiated_lettuce",
     "name": { "str_sp": "irradiated lettuce" },
-    "description": "An irradiated head of lettuce will remain edible nearly forever.  Sterilized using radiation, so it's safe to eat.",
     "spoils_in": 0
   },
   {
@@ -259,7 +235,6 @@
     "id": "irradiated_cabbage",
     "copy-from": "irradiated_cabbage",
     "name": { "str_sp": "irradiated cabbage" },
-    "description": "An irradiated head of cabbage will remain edible nearly forever.  Sterilized using radiation, so it's safe to eat.",
     "spoils_in": 0
   },
   {
@@ -267,7 +242,6 @@
     "id": "irradiated_tomato",
     "copy-from": "irradiated_tomato",
     "name": { "str": "irradiated tomato", "str_pl": "irradiated tomatoes" },
-    "description": "An irradiated tomato will remain edible nearly forever.  Sterilized using radiation, so it's safe to eat.",
     "spoils_in": 0
   },
   {
@@ -275,7 +249,6 @@
     "id": "irradiated_broccoli",
     "copy-from": "irradiated_broccoli",
     "name": { "str_sp": "irradiated broccoli" },
-    "description": "An irradiated cluster of broccoli will remain edible nearly forever.  Sterilized using radiation, so it's safe to eat.",
     "spoils_in": 0
   },
   {
@@ -283,7 +256,6 @@
     "id": "irradiated_zucchini",
     "copy-from": "irradiated_zucchini",
     "name": { "str_sp": "irradiated zucchini" },
-    "description": "An irradiated zucchini will remain edible nearly forever.  Sterilized using radiation, so it's safe to eat.",
     "spoils_in": 0
   },
   {
@@ -291,7 +263,6 @@
     "id": "irradiated_onion",
     "copy-from": "irradiated_onion",
     "name": { "str_sp": "irradiated onion" },
-    "description": "An irradiated onion will remain edible nearly forever.  Sterilized using radiation, so it's safe to eat.",
     "spoils_in": 0
   },
   {
@@ -299,7 +270,6 @@
     "id": "irradiated_carrot",
     "copy-from": "irradiated_carrot",
     "name": { "str_sp": "irradiated carrot" },
-    "description": "An irradiated bundle of carrots will remain edible nearly forever.  Sterilized using radiation, so it's safe to eat.",
     "spoils_in": 0
   },
   {
@@ -307,7 +277,6 @@
     "id": "irradiated_corn",
     "copy-from": "irradiated_corn",
     "name": { "str_sp": "irradiated corn" },
-    "description": "An irradiated ear of corn will remain edible nearly forever.  Sterilized using radiation, so it's safe to eat.",
     "spoils_in": 0
   },
   {
@@ -316,7 +285,6 @@
     "copy-from": "honeycomb",
     "//": "Just to illustrate something here.  Honey is one of the few items that so thoroughly earns the distinction of being called non-perishable that edible examples have been found that are centuries old.  And yet I'm taking no chances with this.",
     "name": { "str_sp": "honey comb" },
-    "description": "A large chunk of wax filled with honey.  Very tasty.",
     "spoils_in": 0
   },
   {
@@ -324,7 +292,6 @@
     "id": "wax",
     "copy-from": "wax",
     "name": { "str": "wax", "str_pl": "waxes" },
-    "description": "A large chunk of beeswax.  Not very tasty or nourishing, but okay in an emergency.",
     "spoils_in": 0
   },
   {

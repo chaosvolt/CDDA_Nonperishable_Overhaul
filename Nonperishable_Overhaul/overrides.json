@@ -585,6 +585,27 @@
     "spoils_in": 0
   },
   {
+    "id": "bee_balm_tea",
+    "copy-from": "bee_balm_tea",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "bee balm tea" },
+    "spoils_in": 0
+  },
+  {
+    "id": "chamomile_tea",
+    "copy-from": "chamomile_tea",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "chamomile tea" },
+    "spoils_in": 0
+  },
+  {
+    "id": "spurge_tea",
+    "copy-from": "spurge_tea",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "spurge tea" },
+    "spoils_in": 0
+  },
+  {
     "id": "leverpostej",
     "copy-from": "leverpostej",
     "type": "COMESTIBLE",
