@@ -674,5 +674,12 @@
     "type": "COMESTIBLE",
     "name": { "str_sp": "pemmican (meat only)" },
     "spoils_in": 0
+  },
+  {
+    "id": "confit_meat",
+    "copy-from": "confit_meat",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "meat confit" },
+    "spoils_in": 0
   }
 ]
