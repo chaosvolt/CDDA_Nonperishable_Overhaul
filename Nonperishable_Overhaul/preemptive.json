@@ -148,51 +148,9 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "irradiated_apple",
-    "copy-from": "irradiated_apple",
-    "name": { "str_sp": "irradiated apple" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_banana",
-    "copy-from": "irradiated_banana",
-    "name": { "str_sp": "irradiated banana" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_orange",
-    "copy-from": "irradiated_orange",
-    "name": { "str_sp": "irradiated orange" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_lemon",
-    "copy-from": "irradiated_lemon",
-    "name": { "str_sp": "irradiated lemon" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
     "id": "kernels",
     "copy-from": "kernels",
     "name": { "str_sp": "popcorn kernels" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_blueberries",
-    "copy-from": "irradiated_blueberries",
-    "name": { "str": "irradiated blueberry", "str_pl": "irradiated blueberries" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_strawberries",
-    "copy-from": "irradiated_strawberries",
-    "name": { "str": "irradiated strawberry", "str_pl": "irradiated strawberries" },
     "spoils_in": 0
   },
   {
@@ -221,62 +179,6 @@
     "id": "barley",
     "copy-from": "barley",
     "name": { "str_sp": "barley" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_lettuce",
-    "copy-from": "irradiated_lettuce",
-    "name": { "str_sp": "irradiated lettuce" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_cabbage",
-    "copy-from": "irradiated_cabbage",
-    "name": { "str_sp": "irradiated cabbage" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_tomato",
-    "copy-from": "irradiated_tomato",
-    "name": { "str": "irradiated tomato", "str_pl": "irradiated tomatoes" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_broccoli",
-    "copy-from": "irradiated_broccoli",
-    "name": { "str_sp": "irradiated broccoli" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_zucchini",
-    "copy-from": "irradiated_zucchini",
-    "name": { "str_sp": "irradiated zucchini" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_onion",
-    "copy-from": "irradiated_onion",
-    "name": { "str_sp": "irradiated onion" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_carrot",
-    "copy-from": "irradiated_carrot",
-    "name": { "str_sp": "irradiated carrot" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_corn",
-    "copy-from": "irradiated_corn",
-    "name": { "str_sp": "irradiated corn" },
     "spoils_in": 0
   },
   {
@@ -363,13 +265,6 @@
     "copy-from": "powder_eggs",
     "//": "Another one that they missed.",
     "name": { "str_sp": "powdered egg" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_pumpkin",
-    "copy-from": "irradiated_pumpkin",
-    "name": { "str_sp": "irradiated pumpkin" },
     "spoils_in": 0
   },
   {
@@ -472,13 +367,6 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "irradiated_pear",
-    "copy-from": "irradiated_pear",
-    "name": { "str": "irradiated pear" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
     "id": "coffee_bean",
     "copy-from": "coffee_bean",
     "name": { "str_sp": "coffee beans" },
@@ -493,79 +381,9 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "irradiated_cherries",
-    "copy-from": "irradiated_cherries",
-    "name": { "str": "irradiated cherry", "str_pl": "irradiated cherries" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_plums",
-    "copy-from": "irradiated_plums",
-    "name": { "str": "irradiated plum" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_grapes",
-    "copy-from": "irradiated_grapes",
-    "name": { "str": "irradiated grape" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_pineapple",
-    "copy-from": "irradiated_pineapple",
-    "name": { "str": "irradiated pineapple" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_peach",
-    "copy-from": "irradiated_peach",
-    "name": { "str": "irradiated peach", "str_pl": "irradiated peaches" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_cranberries",
-    "copy-from": "irradiated_cranberries",
-    "name": { "str": "irradiated cranberry", "str_pl": "irradiated cranberries" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
     "id": "lemonade_powder",
     "copy-from": "lemonade_powder",
     "name": { "str": "lemonade drink mix", "str_pl": "servings of lemonade drink mix" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_watermelon",
-    "copy-from": "irradiated_watermelon",
-    "name": { "str_sp": "irradiated watermelon" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_melon",
-    "copy-from": "irradiated_melon",
-    "name": { "str_sp": "irradiated melon" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_raspberries",
-    "copy-from": "irradiated_raspberries",
-    "name": { "str": "irradiated raspberry", "str_pl": "irradiated raspberries" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_blackberries",
-    "copy-from": "irradiated_blackberries",
-    "name": { "str": "irradiated blackberry", "str_pl": "irradiated blackberries" },
     "spoils_in": 0
   },
   {
@@ -577,58 +395,9 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "irradiated_mango",
-    "copy-from": "irradiated_mango",
-    "name": { "str_sp": "irradiated mango" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_pomegranate",
-    "copy-from": "irradiated_pomegranate",
-    "name": { "str_sp": "irradiated pomegranate" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_rhubarb",
-    "copy-from": "irradiated_rhubarb",
-    "name": { "str_sp": "irradiated rhubarb" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_papaya",
-    "copy-from": "irradiated_papaya",
-    "name": { "str_sp": "irradiated papaya" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_kiwi",
-    "copy-from": "irradiated_kiwi",
-    "name": { "str_sp": "irradiated kiwi" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_apricot",
-    "copy-from": "irradiated_apricot",
-    "name": { "str_sp": "irradiated apricot" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
     "id": "single_malt_whiskey",
     "copy-from": "single_malt_whiskey",
     "name": { "str_sp": "single malt whiskey" },
-    "spoils_in": 0
-  },
-  {
-    "type": "COMESTIBLE",
-    "id": "irradiated_celery",
-    "copy-from": "irradiated_celery",
-    "name": { "str_sp": "irradiated celery" },
     "spoils_in": 0
   },
   {
